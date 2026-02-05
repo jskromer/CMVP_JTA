@@ -1,7 +1,5 @@
 # CMVP_JTA
 
-
-
 1. The governing standard: ISO/IEC 17024
 
 ANAB accredits personnel certifications (like CMVP) against ISO/IEC 17024.
@@ -88,68 +86,41 @@ ANAB expects hard traceability:
 Element
 Must trace back to JTA
 Exam domains
-
 ✔
 
 Individual questions
-
 ✔
 
 Cognitive level (Bloom)
-
 ✔
 
 Passing score
-
 ✔
 
 Recertification requirements
-
 ✔
 
 If something is on the exam and not in the JTA, that’s a finding.
 
-
-
 If something is in the JTA and not assessed, also a finding.
-
-
-
 
 4. Update cycle expectations
 
 
-
-
 ANAB typically expects:
 
-
 Full JTA refresh every 5–7 years
-
 Or sooner if the profession changes materially
-
-
-
 
 Given:
 
-
 ESG
-
 Carbon
-
 AI
-
 Complex contracting
-
 Risk and uncertainty framing
 
-
-
-
 …you could strongly argue CMVP practice has already crossed that threshold.
-
-
 
 
 5. Board vs Staff — where this really matters
@@ -175,12 +146,5 @@ The JTA is where that truth must be explicitly encoded.
 
 If CMVP is really about decisions under uncertainty, the JTA must say so plainly — and the exam must follow.
 
-If you want, next we can:
-
-Sketch what a next-gen CMVP JTA structure would look like
-
-Or map current CMVP content vs a defensible ANAB-ready JTA
-
-Or talk strategy: how boards usually get leverage back from staff on this exact issue
 
 

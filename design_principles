@@ -1,0 +1,267 @@
+Design principles for a future-proof CMVP JTA
+
+Before the boxes and bullets, a few anchoring principles (these matter for accreditation defensibility):
+	1.	AI is an instrument, not the professional
+	•	Judgment remains human
+	•	Responsibility and accountability cannot be delegated
+	2.	The unit of certification is decision quality
+	•	Not model accuracy
+	•	Not tool proficiency
+	•	Not protocol compliance
+	3.	Uncertainty is first-class
+	•	Aleatory vs epistemic
+	•	Observability limits
+	•	Model risk
+	4.	The CMVP operates inside value networks
+	•	Contracts
+	•	Markets
+	•	Governance
+	•	Trust
+
+Those principles should be stated explicitly in the JTA preamble.
+
+⸻
+
+Proposed CMVP JTA — high-level domain structure
+
+Think 8 domains. That’s a sweet spot: rich enough, not bloated.
+
+⸻
+
+Domain 1 — Problem Framing & Stakeholder Alignment
+
+This is where most failures actually begin.
+
+Tasks
+	•	Define the decision to be supported by M&V
+	•	Identify stakeholders, incentives, and asymmetries
+	•	Establish the counterfactual purpose (transactional, regulatory, risk-transfer, learning)
+	•	Align expectations on uncertainty, tolerance, and use of results
+
+Knowledge
+	•	Decision theory
+	•	Incentive alignment
+	•	Institutional roles (utilities, regulators, owners, financiers)
+
+Skills
+	•	Structured elicitation
+	•	Communication across technical and non-technical audiences
+
+AI relevance
+	•	AI assists in stakeholder mapping and scenario surfacing
+	•	Human owns framing and ethical boundary setting
+
+⸻
+
+Domain 2 — Counterfactual Design & Baseline Governance
+
+This is the core of CMVP identity.
+
+Tasks
+	•	Define baseline period relevance
+	•	Select counterfactual approach (statistical, physical, hybrid)
+	•	Specify assumptions explicitly
+	•	Design adjustment logic and boundaries
+
+Knowledge
+	•	Causal inference concepts
+	•	Counterfactual theory
+	•	Baseline permanence and non-revision principles
+
+Skills
+	•	Translating messy reality into tractable designs
+	•	Defending assumptions under scrutiny
+
+AI relevance
+	•	AI can propose candidate models
+	•	CMVP validates appropriateness and governance
+
+⸻
+
+Domain 3 — Data Strategy, Observability & Integrity
+
+Future-proofing lives here.
+
+Tasks
+	•	Define data requirements tied to decisions
+	•	Evaluate sensor placement and data gaps
+	•	Assess data quality, bias, and drift
+	•	Establish data governance and version control
+
+Knowledge
+	•	Measurement theory
+	•	Observability
+	•	Data bias and leakage
+
+Skills
+	•	Diagnosing data insufficiency
+	•	Designing fallback strategies
+
+AI relevance
+	•	AI detects patterns and anomalies
+	•	CMVP decides what is knowable vs assumed
+
+⸻
+
+Domain 4 — Modeling, Calibration & Validation
+
+Not “build a model” — choose and govern models.
+
+Tasks
+	•	Select modeling approach consistent with counterfactual intent
+	•	Calibrate models appropriately
+	•	Validate within decision context
+	•	Recognize overfitting and spurious precision
+
+Knowledge
+	•	Statistical modeling
+	•	Physical modeling
+	•	Bayesian calibration concepts
+
+Skills
+	•	Model comparison
+	•	Explaining model limitations clearly
+
+AI relevance
+	•	AI accelerates modeling and sensitivity testing
+	•	CMVP owns model selection and acceptance criteria
+
+⸻
+
+Domain 5 — Uncertainty, Risk & Confidence Management
+
+This domain is non-negotiable going forward.
+
+Tasks
+	•	Characterize uncertainty sources
+	•	Distinguish risk from ignorance
+	•	Quantify confidence where possible
+	•	Communicate uncertainty honestly
+
+Knowledge
+	•	Probability
+	•	Risk theory
+	•	Confidence intervals and distributions
+
+Skills
+	•	Explaining uncertainty without undermining trust
+	•	Avoiding false certainty
+
+AI relevance
+	•	AI can simulate scenarios
+	•	CMVP judges adequacy of uncertainty treatment
+
+⸻
+
+Domain 6 — Interpretation, Reporting & Value Translation
+
+Where technical work becomes economic reality.
+
+Tasks
+	•	Translate model outputs into decision-relevant metrics
+	•	Avoid misleading aggregation
+	•	Ensure transparency and reproducibility
+	•	Frame results for multiple audiences
+
+Knowledge
+	•	Reporting standards
+	•	Economic interpretation
+	•	Cognitive bias in reporting
+
+Skills
+	•	Narrative construction grounded in evidence
+	•	Defensive documentation
+
+AI relevance
+	•	AI drafts reports and visualizations
+	•	CMVP ensures meaning, integrity, and restraint
+
+⸻
+
+Domain 7 — Professional Judgment, Ethics & Accountability
+
+This is where AI cannot be allowed to blur responsibility.
+
+Tasks
+	•	Identify ethical risks
+	•	Manage conflicts of interest
+	•	Accept responsibility for professional opinions
+	•	Know when to say “this cannot be known”
+
+Knowledge
+	•	Professional ethics
+	•	Certification responsibilities
+	•	Legal exposure concepts
+
+Skills
+	•	Ethical reasoning
+	•	Boundary setting
+
+AI relevance
+	•	AI has no standing
+	•	CMVP is accountable for all outputs
+
+⸻
+
+Domain 8 — Adaptation, Learning & Field Evolution
+
+Future-proofing lives here too.
+
+Tasks
+	•	Evaluate new tools critically
+	•	Incorporate AI responsibly
+	•	Update practices as systems evolve
+	•	Contribute to professional learning
+
+Knowledge
+	•	Emerging technologies
+	•	Limits of automation
+	•	Continuous improvement frameworks
+
+Skills
+	•	Learning how to learn
+	•	Tool skepticism
+
+AI relevance
+	•	AI is part of the environment
+	•	CMVP remains the adaptive agent
+
+⸻
+
+Cognitive levels (Bloom) — this is important
+
+A future-proof JTA should explicitly encode Bloom levels:
+	•	Awareness → for tools and methods
+	•	Application → for standard designs
+	•	Analysis → for uncertainty and modeling choices
+	•	Evaluation → for competing counterfactuals
+	•	Creation → for novel M&V designs in new markets
+
+This defends:
+	•	Exam difficulty
+	•	Certification stature
+	•	Scope beyond a 3-day training
+
+⸻
+
+Why ANAB would accept this
+
+Because:
+	•	It is practice-based
+	•	It is technology-neutral
+	•	It clearly preserves human accountability
+	•	It aligns exam content with real professional risk
+
+And crucially:
+
+AI enhances the CMVP — it does not redefine the CMVP.
+
+⸻
+
+If you want next, we can:
+	•	Map this directly to exam blueprint weights
+	•	Contrast this with the current CMVP implicit JTA
+	•	Draft the preamble language that frames AI without scaring ANAB
+	•	Or sketch how this supports multiple market uses (energy, carbon, ESG)
+
+Your move.
